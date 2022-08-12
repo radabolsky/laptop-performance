@@ -17,10 +17,11 @@
 ## Анализ критических значений
 
 
-В этой части необходимо проанализировать данные, полученные после предобработки (они будут в формате DataFrame, см pandas), и удалить данные не соответсвующие условиям согласно алгоритма
+В этой части необходимо проанализировать данные, полученные после предобработки (они будут в формате DataFrame, см pandas), и удалить данные не соответсвующие условиям согласно алгоритма. Для построения диаграмм - [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html). Также может пригодится [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
 
 
 <img src="flow-charts/critical-values.png" alt="Критические значения" title="Критические значения" align="center">
 
 
+## 
