@@ -1,5 +1,15 @@
 # laptop-performance
 
 Основная блоксхема программы:
-<img src="flow-charts/main.png" alt="Employee data" title="База" align="center">
+
+
+<img src="flow-charts/main.png" alt="База" title="База" align="center">
+
+## Подготовка данных к анализу
+
+
+Данные приходят в виде .csv файла. Его нужно распарсить и обработать согласно блок-схеме. Некоторые числа могут считываться как строки, их нужно привести к соответствующему формату (float, int и т.д.)
+
+
+<img src="flow-charts/preprocessing.png" alt="Предобработка" title="Предобработка" align="center">
 
