@@ -1,3 +1,5 @@
 # laptop-performance
 
-<img src="flow-charts/main.png" alt="Employee data" title="Employee Data title">
+Основная блоксхема программы:
+<img src="flow-charts/main.png" alt="Employee data" title="База" align="center">
+
