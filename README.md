@@ -24,4 +24,21 @@
 <img src="flow-charts/critical-values.png" alt="Критические значения" title="Критические значения" align="center">
 
 
-## 
+## Построение регрессии
+
+
+На этом этапе строится модель согласно алгоритму. Для построения могут пригодится: [sklearn.linear_models](https://scikit-learn.org/stable/modules/linear_model.html), [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+
+
+
+<img src="flow-charts/regression.png" alt="Регрессия" title="Регрессия" align="center">
+
+
+
+## Проверка работоспособности модели
+
+
+Готовую модель нужно проверить согласно алгоритму:
+
+
+<img src="flow-charts/validation.png" alt="Валидация" title="Валидация" align="center">
