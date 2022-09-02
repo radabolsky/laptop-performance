@@ -7,7 +7,7 @@
 * [pandas](https://pandas.pydata.org/) - для удобной работы с данными в виде таблицы
 * [numpy](https://numpy.org/) - для работы с векторами чисел и быстрой обработки массивов
 * [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html) - для работы с графиками
-* [sklearn](https://scikit-learn.org) - библиотека для машинного обучения. В ней есть нужная нам линейная регрессия, а также некоторые метрики (например R2)
+* [statsmodels](https://www.statsmodels.org/stable/index.html) - библиотека для построения моделей
 * [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) - для работы со статистикой
 
 
